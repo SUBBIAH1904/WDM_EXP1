@@ -1,7 +1,9 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
 ### DATE: 24-08-2024
+
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
+  
 ### PROCEDURE: 
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
@@ -59,7 +61,9 @@ rainy,75.0,80.0,false,yes
 
 
 ### PREPROCESSING
+
 ### Procedure:
+
 #### 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
